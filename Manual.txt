@@ -1,2 +1,3 @@
 ﻿ô la la! không có gì hết!
+test merge lịch sử thay đổi.
 thay đổi trong clone repo.
