@@ -1,0 +1,1 @@
+﻿Nhập mảng gồm n só nguyên!
